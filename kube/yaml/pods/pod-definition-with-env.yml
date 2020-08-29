@@ -1,0 +1,15 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: postgres
+  labels:
+    tier: db-tier
+spec:
+  containers:
+    - name: postgres
+      image: postgres:9.6
+      env:
+        - name: POSTGRES_PASSWORD
+          value: mysecretpassword
+      ports:
+        - containerPort: 5432

@@ -1,2 +1,2 @@
-# me.leetcode
-leetcode practice myself.
+# me.notes
+some notes by mysefl.
