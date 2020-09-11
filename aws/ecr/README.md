@@ -2,7 +2,7 @@
 - Docker version >= 1.7
 
 ### Authentication to AWS
-- Access key and Srcret key could be found from the IAM on AWS.
+- Access key and Secret key could be found from the IAM on AWS.
 ```bash
 > aws configure
 ```
