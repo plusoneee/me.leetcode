@@ -1,2 +1,2 @@
 # me.notes
-some notes by mysefl.
+some notes by myself.
